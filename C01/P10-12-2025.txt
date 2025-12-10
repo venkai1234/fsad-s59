@@ -1,0 +1,51 @@
+S/W Requirements:
+git
+Git HUb
+JDK
+Eclipse--editor 
+Spring Tool Suit
+MySQL
+-------------
+VS code 
+Node Js
+---------------------------------
+GIT
+----------------------
+Version Control System :
+v1
+v2
+
+v10
+-----------------
+track
+GitHub:
+--------------------
+cloud storage store applications  or code --track of git 
+make public or online 
+configure git into GitHub
+-----------------------------------------
+git lifecycle:
+track project --states 
+local Directory --------staging  Directory-------- local Repository------Remote Repository (globally)
+fsad-s59---------add -----staging -----------commit ----local Repository-----push----Remote Repository 
+------------------------------------------
+
+git Basic Commands:
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

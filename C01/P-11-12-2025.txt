@@ -1,0 +1,25 @@
+Basic Commands  in git:
+config
+branch:
+to know the Branche are available in repository
+merge:
+frontend
+backend
+master--default
+two branches
+delete:
+delete branch from GitHub repo
+status:
+
+list:
+git config list
+unset:
+delete users from gihub repo
+config:
+clone:
+git clone url
+pull
+retrieve files from Repo 
+git pull 
+
+
